@@ -1,0 +1,39 @@
+ebook_metadata:
+  title: ཕྱག་ཆེན་སྔོན་འགྲོའི་ཞལ་ཁྲིད་ལས་དང་པོ་པ་རྣམས་འཇུག་བདེ་བའི་ལམ་བཟང་ངེས་དོན་དགོངས་རྒྱན།
+  authors:
+  - མཛད་པ་པོ། འབོ་དཀར་རྡོ་རྗེ་འཆང་ཀརྨ་ངེས་དོན་ཆོས་ཀྱི་བློ་གྲོས།
+  sku: Bokar-001
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - tsawa
+  - quotation
+  - sabche
+  - yigchung
+web_metadata:
+  title:
+    en: 'Droplets of Nectar:'
+    bo: བདུད་རྩིའི་ཟེགས་མ།
+  collection:
+    en: Bokar Library–  Book 1
+    bo: འབོ་དཀར་དཔེ་མཛོད་ཁང་།–  དེབ། ༡
+  author:
+    en: Bokar Rinpoche Karma Ngedon
+    bo: འབོ་དཀར་རིན་པོ་ཆེ་ཀརྨ་ངེས་དོན།
+  pusblisher:
+    en: Bokar Publications
+    bo: འབོ་དཀར་རྩོམ་སྒྲིག་སྡེ་ཚན།
+  sku: Bokar-001
+  category:
+    en: Mahamudra
+    bo: ཕྱག་རྒྱ་ཆེན་པོ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: Bokar-001.epub
+  description:
+    en: ''
+    bo: འབོ་དཀར་རྡོ་རྗེ་འཆང་ཀརྨ་ངེས་དོན་ཆོས་ཀྱི་བློ་གྲོས་མཆོག་གིས་མཛད་པའི་ཕྱག་རྒྱ་ཆེན་མོའི་མྱོང་ཁྲིད་ཡིན།
