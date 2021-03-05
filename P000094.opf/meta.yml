@@ -1,8 +1,9 @@
-ebook_metadata:
+id: P000094
+initial_creation_type: ebook
+source_metadata:
   title: ཕྱག་ཆེན་སྔོན་འགྲོའི་ཞལ་ཁྲིད་ལས་དང་པོ་པ་རྣམས་འཇུག་བདེ་བའི་ལམ་བཟང་ངེས་དོན་དགོངས་རྒྱན།
   authors:
   - མཛད་པ་པོ། འབོ་དཀར་རྡོ་རྗེ་འཆང་ཀརྨ་ངེས་དོན་ཆོས་ཀྱི་བློ་གྲོས།
-  sku: Bokar-001
   layers:
   - book_title
   - author
@@ -11,6 +12,7 @@ ebook_metadata:
   - quotation
   - sabche
   - yigchung
+  id: Bokar-001
 web_metadata:
   title:
     en: 'Droplets of Nectar:'
